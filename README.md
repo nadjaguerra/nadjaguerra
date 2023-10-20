@@ -35,7 +35,7 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaguerra&layout=compact"> <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaguerra&Hidden=progress=bars"> <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
 <br><br>
 </div>
 
@@ -43,12 +43,10 @@
 ##
   <div align="center"> 
 
-<a href="mailtonadjaguerra77@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://https://www.linkedin.com/in/nadja-guerra-38ab62196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="mailto:nadjaguerra77@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/nadja-guerra-38ab62196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-
-
 
 
   <h3 align="center">  Thanks for Visiting  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="20" /> </h3> 
