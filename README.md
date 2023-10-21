@@ -25,8 +25,6 @@
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
-  <img align="center" alt="nad-Python" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-plain-wordmark.svg" />
-  <img align="center" alt="nad-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
 
 
   
