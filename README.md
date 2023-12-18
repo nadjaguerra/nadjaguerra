@@ -1,11 +1,11 @@
 <h1 align="center"> It's a-me Nadja </h1>
 
 <p align="center">
-  <img width="90px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
+  <img width="70px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
 
 </p>
 
-<h4 align="center"> Backend Developer </h4>
+
 
  
 ##
@@ -18,10 +18,8 @@
   <img align="center" alt="nad-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nad-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
   <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
 
 
