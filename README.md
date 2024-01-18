@@ -1,7 +1,7 @@
 <h1 align="center"> It's a-me Nadja </h1>
 
 <p align="center">
-  <img width="70px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
+  <img width="40px" src="https://raw.githubusercontent.com/nyrvlivy/nyrvlivy/master/star.gif" align="center" alt="GitHub Readme Stats" style="margin-right: 20px;" />
 
 </p>
 
@@ -14,25 +14,24 @@
 
 
 <div align="center">
-  <img align="center" alt="Rafa-React" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs//nodejs-plain-wordmark.svg" />
-  <img align="center" alt="nad-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="nad-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="nad-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
+  <img align="center" alt="Rafa-React" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs//nodejs-plain-wordmark.svg" />
+  <img align="center" alt="nad-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nad-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="nad-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="nad-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="nad-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="nad-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />  
 
 
   
 </div
 
+
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaguerra&Hidden=progress=bars"> <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="300">
-<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaguerra&Hidden=progress=bars">
 </div>
-
 
 ##
   <div align="center"> 
