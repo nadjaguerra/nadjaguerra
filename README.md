@@ -30,7 +30,6 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjaguerra&Hidden=progress=bars">
 </div>
 
 ##
