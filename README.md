@@ -10,8 +10,6 @@ Com grande interesse nas oportunidades oferecidas pelo mundo dos dados e cloud c
 
  > “Do, or do not. There is no “try” — Yoda 
 
-<hr style="border: none; height: 1px; background-color: #993399;">
-
 </br></br>
 
 # 💻 Tech Stack
