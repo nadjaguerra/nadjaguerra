@@ -1,7 +1,13 @@
 # 👋 Hi there
 <img align="right" alt="Rafa-React" height="400" width="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-Eu sou Nadja Guerra, uma entusiasta de tecnologia apaixonada por explorar os limites entre hardware e software. </br>
+- Graduanda em Análise e Desenvolvimento do Sistemas 🎓 👩‍🎓
+- Em busca de trocar dicas e compartilhar conhecimento =)
+- Sempre aberta a novas amizades, networking e oportunidades ✌️
+- Arte, filmes, livros, pets e 🦕
+  
+
+Uma entusiasta de tecnologia apaixonada por explorar os limites entre hardware e software. </br>
 Da eletrônica à codificação, minha jornada tem sido uma aventura em busca de soluções criativas para desafios tecnológicos.   
 Com grande interesse nas oportunidades oferecidas pelo mundo dos dados e cloud computing.
 
