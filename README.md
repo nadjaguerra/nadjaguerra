@@ -6,7 +6,7 @@
 - Arte, filmes, livros, pets e 🦕
   
 
-Uma entusiasta de tecnologia apaixonada por explorar os limites entre hardware e software. </br>
+Uma entusiasta de tecnologia sempre explorando os limites entre hardware e software. </br>
 Da eletrônica à codificação, minha jornada tem sido uma aventura em busca de soluções criativas para desafios tecnológicos.   
 Com grande interesse em dados e cloud computing.
 
