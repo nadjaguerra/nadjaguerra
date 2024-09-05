@@ -8,7 +8,7 @@
 
 Uma entusiasta de tecnologia apaixonada por explorar os limites entre hardware e software. </br>
 Da eletrônica à codificação, minha jornada tem sido uma aventura em busca de soluções criativas para desafios tecnológicos.   
-Com grande interesse nas oportunidades oferecidas pelo mundo dos dados e cloud computing.
+Com grande interesse em dados e cloud computing.
 
 </br>
 </br>
