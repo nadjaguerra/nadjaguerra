@@ -2,7 +2,6 @@
 <img align="right" alt="Rafa-React" height="400" width="400" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 - Graduanda em Ciência de Dados na UFMS 🎓 👩‍🎓
-- Sempre aberta a novas amizades, networking e oportunidades ✌️
 - Arte, filmes, livros, pets e 🦕
   
 
