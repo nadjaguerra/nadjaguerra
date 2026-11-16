@@ -13,13 +13,13 @@ Atualmente, tenho direcionado meus estudos para **Ciência de Dados, Inteligênc
 
 ## 🧠 Áreas de interesse
 
-- Data Science & Data Analytics
-- Artificial Intelligence & Machine Learning
-- Generative AI & Large Language Models (LLMs)
-- Prompt Engineering & RAG
-- Data Engineering & Big Data
-- Automação e melhoria de processos
-- Data Quality & Data Governance
+## 🧠 Áreas de interesse
+
+- Ciência e Análise de Dados
+- Inteligência Artificial e IA Generativa
+- Engenharia de Dados e Big Data
+- Automação e análise de processos
+- Qualidade e governança de dados
 
 ---
 
