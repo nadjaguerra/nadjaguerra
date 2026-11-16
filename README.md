@@ -114,9 +114,9 @@ Atualmente, tenho direcionado meus estudos para **Ciência de Dados, Inteligênc
 
 | Projeto | O que desenvolvi | Acesso |
 | --- | --- | --- |
+| **Água para Todos** | Observatório do abastecimento de água em Pernambuco, com mapas, comparação municipal e análise exploratória de dados do IBGE e do SINISA. Usa Preact, Leaflet e Plotly.js na interface. | [Repositório](https://github.com/nadjaguerra/agua-para-todos) · [Aplicação](https://agua-para-todos-ufms.vercel.app/) |
 | **JurisIA** | Pesquisa de jurisprudência do STJ com busca textual via SQLite FTS5, busca por significado com Sentence Transformers e ChromaDB e síntese opcional com Gemini. O protótipo usa RAG para fundamentar as sínteses nos documentos recuperados. | [Repositório](https://github.com/nadjaguerra/JurisIA) · [Aplicação](https://jurisia-ufms.streamlit.app/) |
 | **Recife Calor** | Observatório de temperatura superficial e vegetação em Recife. Combina imagens Landsat, mapas por bairro e Random Forest, com processamento no GitHub Actions e hospedagem na Vercel. | [Repositório](https://github.com/nadjaguerra/recife-calor) · [Aplicação](https://recife-calor.vercel.app/) |
-| **Água para Todos** | Observatório do abastecimento de água em Pernambuco, com mapas, comparação municipal e análise exploratória de dados do IBGE e do SINISA. Usa Preact, Leaflet e Plotly.js na interface. | [Repositório](https://github.com/nadjaguerra/agua-para-todos) · [Aplicação](https://agua-para-todos-ufms.vercel.app/) |
 
 Nos demais repositórios, desenvolvi [notebooks de análise e ETL](https://github.com/nadjaguerra/PYTHON_Analise-de-dados) com Pandera, Matplotlib e Seaborn, um [estudo de detecção de fraude](https://github.com/nadjaguerra/Deteccao-de-Fraude-em-Cartao-de-credito-) com scikit-learn e imbalanced-learn, uma [API REST](https://github.com/nadjaguerra/API-REST-Typescript) com Express e TypeORM, um [aplicativo de tarefas](https://github.com/nadjaguerra/To-Do-List) com React e Next.js e [exercícios com Sequelize](https://github.com/nadjaguerra/FAP_Softex).
 
